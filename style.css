@@ -78,3 +78,31 @@ input {
     border: none;
     margin: 8px 0;
 }
+
+p {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    color: rgb(80, 80, 80);
+    font-size: 16px;
+    margin-bottom: 96px;
+}
+
+.square {
+    border: #3882F6;
+    border-style: solid;
+    border-width: 4px;
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.subimage {
+    width: 150px;
+}

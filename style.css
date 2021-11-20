@@ -89,7 +89,7 @@ p {
     display: flex;
     justify-content: center;
     gap: 48px;
-    color: rgb(80, 80, 80);
+    color: #1F2937;
     font-size: 16px;
     margin-bottom: 96px;
 }
@@ -105,4 +105,31 @@ p {
 
 .subimage {
     width: 150px;
+    font-weight: 400;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.quote-text {
+    text-align: left;
+    width: 790px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 350;
+    color: #1F2937;
+}
+
+.quoter {
+    text-align: right;
+    width: 700px;
+    font-size: 24px;
+    font-weight: bolder;
+    color: #1F2937;
 }

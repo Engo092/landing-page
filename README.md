@@ -1,4 +1,4 @@
-#Odin Landing Page
+# Odin Landing Page
 
 This is a project mostly focused on CSS and flexbox-related skills. I myself have never had a good relation with CSS, especially flexbox, so making this project and being able to actually make it look good is definitively something that i loved doing.
 

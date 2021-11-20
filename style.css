@@ -133,3 +133,39 @@ p {
     font-weight: bolder;
     color: #1F2937;
 }
+
+.sign {
+    padding: 96px;
+    display: flex;
+    justify-content: center;
+}
+
+.sign-square {
+    background-color: #3882F6;
+    width: 70%;
+    padding: 48px 24px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.signtitle {
+    color: #F9FAF8;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.signsub {
+    color: #E5E7EB;
+    font-size: 20px;
+}
+
+.signbutton {
+    border: solid;
+    border-color: #F9FAF8;
+    border-width: 2px;
+}
+
+.signinfo {
+    text-align: left;
+}
